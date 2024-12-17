@@ -116,3 +116,9 @@ footer {
 footer p {
     margin: 0;
 }
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* เพิ่มเงาให้ดูเด่น */
+}
